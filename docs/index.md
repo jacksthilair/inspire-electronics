@@ -1,7 +1,7 @@
 **exercise 13**
-# header1 
-## header2
-### header3
+# Jacks website
+## I am new at this
+### Hope you like it 
 
 I am making this text **bold** it is very *fancy*
 
@@ -18,9 +18,9 @@ Things to do in quarintine
 * read 
 * exercise 
 
-[global news](https://globalnews.ca/)
+[global news](https://globalnews.ca/) to keep up to date on all that is COVID 19
 
-`<addr>`
+
 
 Good Snacks|Bad Snacks
 ----------|----------
