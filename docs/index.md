@@ -1,11 +1,11 @@
-title: <exersise 13>
+**exercise 13**
 # header1 
 ## header2
 ### header3
 
-I am making this text **bold** it is very *facncy*
+I am making this text **bold** it is very *fancy*
 
-![GitHub Logo](/images/logo.png)
+![lake](https://www.google.ca/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FLake&psig=AOvVaw3GhUNwFf19esxWIwty9Imd&ust=1590012005977000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMCbibz2wOkCFQAAAAAdAAAAABAD)
 
 Best pop 
 1. sprite 
@@ -18,7 +18,7 @@ Things to do in quarintine
 * read 
 * exercise 
 
-http://github.com
+https://globalnews.ca/
 
 `<addr>`
 
