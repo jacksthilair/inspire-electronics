@@ -5,7 +5,7 @@
 
 I am making this text **bold** it is very *fancy*
 
-![Git hub logo](/images/logo.png)
+![Git hub logo](https://cdn.afterdawn.fi/v3/news/original/github-logo.png)
 
 Best pop 
 1. sprite 
