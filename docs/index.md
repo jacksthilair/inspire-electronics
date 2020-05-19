@@ -18,7 +18,7 @@ Things to do in quarintine
 * read 
 * exercise 
 
-https://globalnews.ca/
+[global news](https://globalnews.ca/)
 
 `<addr>`
 
